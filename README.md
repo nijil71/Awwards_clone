@@ -25,7 +25,7 @@ This project is a Web3 modern-looking gaming site landing page designed to provi
    ```
 2. Navigate to the project directory:
    ```bash
-   cd awwaards
+   cd Gaming_site
    ```
 3. Install dependencies:
    ```bash
