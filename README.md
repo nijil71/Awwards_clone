@@ -1,8 +1,8 @@
-# Awwwards Clone
+# Web3 Gaming Site Lanidng Page
 
 ## Overview
 
-This project is a clone of Awwwards that showcases award-winning websites and applications. It is built using modern web technologies to ensure a smooth and interactive experience.
+This project is a Web3 modern-looking gaming site landing page designed to provide a smooth and interactive experience.
 
 ## Features
 
